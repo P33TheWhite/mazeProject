@@ -55,10 +55,11 @@ make
 ## Membres
 
  Ce jeu a été realisé par Gabin Alquier, Paul Brechenmacher, Etienne Massonnet et Paul Le Blanc pour un projet de fin de premier semestre 2023-2024.
+
  
  [Paul Brechenmacher](https://github.com/nehkowp)
- 
  N'hésitez pas à aller voir ces projets. ")
+
 
 
     Un aventurier maquillé
