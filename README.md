@@ -1,12 +1,11 @@
+# mazeProject
+Programme en C d'un labyrinthe dans le terminal.
+
+ ## Règle et Description du jeu
+
+  
  Pour plus d'information sur la documentation : 
     https://nehkowp.github.io/mazeDoxygen/index.html
-    
- 
- Pour compiler et exécuter votre programme :
-    make
-    ./exe
-    make clean (pour supprimer les .o)
- 
  
  Le jeu est plutôt simple et facile à comprendre.
  Il suffit de déplacer le personnage jusqu'à l'arrivée 🏁.
@@ -40,8 +39,25 @@
  - Le champagne 🍾 diminue le champ de vision du joueur, jusqu'à être guéri par un verre de lait 🥛.
  - Le saxophone 🎷 augmente le champ de vision du joueur.
 
+## Utilisation
 
- Ce jeu a été realisé par Paul Brechenmacher, Paul Le Blanc, Etienne Massonnet et Gabin Alquier pour un projet de fin de premier semestre 2023-2024.
+Tous les terminaux n'affichent pas toujours les caractères de la même façon, voici les terminaux conseillés pour executer ce programme.
+- Le terminal intégré de VSCode / VSCodium
+- Le gnome-terminal de Ubuntu
+
+```bash
+git clone https://github.com/P33TheWhite/6quiPrend.git
+cd mazeProject
+make
+./exe
+```
+
+## Membres
+
+ Ce jeu a été realisé par Gabin Alquier, Paul Brechenmacher, Etienne Massonnet et Paul Le Blanc pour un projet de fin de premier semestre 2023-2024.
+ 
+ [Paul Brechenmacher]([https://github.com/Slyfti](https://github.com/nehkowp))
+ N'hésitez pas à aller voir ces projets. ")
 
 
     Un aventurier maquillé
